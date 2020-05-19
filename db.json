@@ -24,6 +24,21 @@
       "nombre": "Jugo de Fresa",
       "precio": "200",
       "id": 5
+    },
+    {
+      "nombre": "zapatillas",
+      "precio": 3000,
+      "id": 6
+    },
+    {
+      "nombre": "Jugo ",
+      "precio": 120,
+      "id": 7
+    },
+    {
+      "nombre": "Jugo de Piña",
+      "precio": 130,
+      "id": 8
     }
   ]
 }
