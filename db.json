@@ -1,13 +1,13 @@
 {
   "productos": [
     {
-      "nombre": "juego de naranja",
-      "precio": 130,
+      "nombre": "juego de mazana",
+      "precio": "700",
       "id": 1
     },
     {
-      "nombre": "Jugo Ades",
-      "precio": 150,
+      "nombre": "Jugo Baggio",
+      "precio": "120",
       "id": 2
     }
   ]
