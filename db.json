@@ -1,0 +1,14 @@
+{
+  "productos": [
+    {
+      "nombre": "juego de mazana",
+      "precio": "700",
+      "id": 1
+    },
+    {
+      "nombre": "Jugo Baggio",
+      "precio": "120",
+      "id": 2
+    }
+  ]
+}
